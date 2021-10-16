@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hunter Turtle"
-  avatar           : "turtle.png"
+  avatar           : "https://hunterturtle.github.io/images/turtle.png"
   bio              : "Hello, I am Hunter Turtle. I do research to understand the world."
   location         : "The Backyard"
   employer         :
